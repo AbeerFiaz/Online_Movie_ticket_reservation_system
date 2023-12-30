@@ -7,7 +7,7 @@ For Customer:
 1. Browse through available movies
 2. Choose movie according to taste and time
 3. Select seats of your choice
-4. Bu food and drinks of your choice
+4. Buy food and drinks of your choice
 5. Finish and exit
   
 For Admin:
