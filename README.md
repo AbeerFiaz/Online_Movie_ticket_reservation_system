@@ -1,5 +1,6 @@
 # Online_Movie_ticket_reservation_system
 #Features
+
 For Customer:
 1.Browse available Movies
 2. Choose Movie according to your taste and time
