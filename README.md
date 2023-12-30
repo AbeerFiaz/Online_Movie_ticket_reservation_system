@@ -2,11 +2,12 @@
 #Features
 
 For Customer:
-1.Browse available Movies
-2. Choose Movie according to your taste and time
-3. Select the seats of your choice
-4. Buy food and drinks of your choice
-
+1. Browse through available movies
+2. Choose movie according to taste and time
+3. Select seats of your choice
+4. Bu food and drinks of your choice
+5. Finish and exit
+  
 For Admin:
 1. Overlook how many seats have been booked
 2. Add a new movie
@@ -19,7 +20,7 @@ For Admin:
 #Instructions
 1. Download the code
 2. Open Qt
-3. In the open project, open the project
+3. In the open project, open all files of the project
 4. Build and run the project
 
 #Expected Outputs from the Code
