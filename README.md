@@ -1,4 +1,6 @@
 # Online_Movie_ticket_reservation_system
+This project is a C++ based application with the Gui being implemented using QT Creator Framework. It will allow the users to book their seats from the comforts of their home. 
+
 #Features
 
 For Customer:
@@ -16,6 +18,7 @@ For Admin:
 #Prerequisites
 1. C++ compiler should be installed
 2. Qt creater should be installed. If not, then follow the link to help you - https://www.youtube.com/watch?v=OoVNt-KJ96w
+3. Sqlite must be installed for connecting the database to the code. It can be downloaded from here - https://www.sqlite.org/download.html
 
 #Instructions
 1. Download the code
